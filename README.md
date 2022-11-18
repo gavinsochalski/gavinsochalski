@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gavinsochalski
+- 👀 I’m interested in ... Coding, Drones, Technology, and More.
+- 🌱 I’m currently learning ... How to code in Python for Linux, specifically Kali Linux.
+- 💞️ I’m looking to collaborate on ... Linux-based 
+- 📫 How to reach me ... gavinsochalski2@gmail.com
